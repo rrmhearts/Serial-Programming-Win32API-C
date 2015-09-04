@@ -2,7 +2,7 @@
 
 This repo contains code for transmitting and receiving characters (Strings) serially between an x86 Windows PC and a Microcontroller (MSP430G2553 on Launchpad).
 
-<img src="http://s25.postimg.org/bqw6jzqfz/Serial_port_write_windows.jpg" alt ="Screenshot of the serial port programming code running on windos 7">
+<img src="http://s25.postimg.org/bqw6jzqfz/Serial_port_write_windows.jpg" alt ="Screenshot of the serial port programming code running on windows 7">
 
 Full code explanation along with screenshots can be <a href = http://xanthium.in/Serial-Port-Programming-using-Win32-API> found here on the xanthium website </a>
 
