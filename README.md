@@ -14,6 +14,9 @@ The code uses standard Win32 API's to intialize the PC serial port and transmit 
 
 The Code will Work With Standard **RS232 Serial ports** or any **USB to Serial Converter**.
 
+More info about the  <a href = "http://xanthium.in/USB-to-Serial-RS232-RS485-Converter">USB to Serial/RS232/RS485 Converter used in the above tutorial can be found here</a>
+
+<img src = "http://s25.postimg.org/ucb73bztr/usb_to_rs485_converter_250px.jpg"  href="http://xanthium.in/USB-to-Serial-RS232-RS485-Converter"/>
 
 The Microcontroller side code is written in **Embedded C** and Compiled using **IAR embedded Workbench for MSP430**.
 
